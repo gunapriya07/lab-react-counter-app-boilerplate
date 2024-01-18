@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: skyblue;
+  text-align: center;
+}
+#Container{
+  position:relative;
+  left:500px;
+}
+.appName{
+  position:relative;
+  bottom: 30px;
+}
+.count{
+  position:relative;
+  bottom: 20px;
+}
+
